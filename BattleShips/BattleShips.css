@@ -1,0 +1,7 @@
+.hit {
+  background-color: url("ship.png")no-repeat center center;
+}
+
+.miss {
+  background-color: url("miss.png") no-repeat center center;
+}
